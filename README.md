@@ -1,16 +1,21 @@
-### Hi there 👋
+### Welcome 👋
+Web development is my hobby, I'm mostly self-taugh but managed to get knowledge and begin developing projects
 
-<!--
-**Domodiak/Domodiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make various apps like weather apps, todo apps, communication apps
 
-Here are some ideas to get you started:
+## Facts about me
+- 🔭 I’m currently working on [DomoCht](https://github.com/DomoCht/)
+- 🌱 I’m currently learning UI/UX design, front end development
+- 👯 I’m looking to collaborate on various react projects
+- 💬 You can ask me about web dev
+- 📫 You can contact me on [Discord](https://discord.com/)
+- ⚡ Fun fact: I think I speak English better than my native language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My github stats 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Domodiak&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domodiak&layout=compact&theme=transparent)
+
+## Tools and programming languages I use every day
+HTML, CSS, JS, node.js, Python, Firebase. npm
+(TODO: replace this with SVGs because i forgot to save it last time)
