@@ -8,7 +8,7 @@ I make various apps like weather apps, todo apps, communication apps
 - 🌱 I’m currently learning UI/UX design, front end development
 - 👯 I’m looking to collaborate on various react projects
 - 💬 You can ask me about web dev
-- 📫 You can contact me on [Discord](https://discord.com/)
+- 📫 You can contact me on [Discord](https://discord.com/) (@domodiak)
 - ⚡ Fun fact: I think I speak English better than my native language
 
 ## My github stats 
