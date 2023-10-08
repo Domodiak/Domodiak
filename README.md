@@ -4,7 +4,7 @@ Web development is my hobby, I'm mostly self-taugh but managed to get knowledge 
 I make various apps like weather apps, todo apps, communication apps
 
 ## Facts about me
-- 🔭 I’m currently working on [DomoCht](https://github.com/DomoCht/)
+- 🔭 I’m currently working on [ConvoyFinder](https://github.com/ConvoyFinder/)
 - 🌱 I’m currently learning UI/UX design, front end development
 - 👯 I’m looking to collaborate on various react projects
 - 💬 You can ask me about web dev
