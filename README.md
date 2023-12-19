@@ -4,11 +4,11 @@ Web development is my hobby, I'm mostly self-taugh but managed to get knowledge 
 I make various apps like weather apps, todo apps, communication apps
 
 ## Facts about me
-- 🔭 I’m currently working on [ConvoyFinder](https://github.com/ConvoyFinder/)
-- 🌱 I’m currently learning UI/UX design, front end development
-- 👯 I’m looking to collaborate on various react projects
-- 💬 You can ask me about web dev
-- 📫 You can contact me on [Discord](https://discord.com/) (@domodiak)
+- 🔭 I’m currently working on a secret project 😅
+- 🌱 I’m currently learning MERN stack
+- 👯 I’m interested in collaborating on different projects
+- 💬 You can ask me about anything, I like talking
+- 📫 You can contact me on Discord [@domodiak](https://discord.com/users/486577280550699008/)
 - ⚡ Fun fact: I think I speak English better than my native language
 
 ## My github stats 
@@ -17,5 +17,4 @@ I make various apps like weather apps, todo apps, communication apps
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domodiak&layout=compact&theme=transparent)
 
 ## Tools and programming languages I use every day
-HTML, CSS, JS, node.js, Python, Firebase. npm
-(TODO: replace this with SVGs because i forgot to save it last time)
+HTML, CSS, JS, Node.js, Python, React.js
