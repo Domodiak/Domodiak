@@ -8,8 +8,12 @@ I'm a self-taught developer, and I have travelled through many kinds of developm
 
 * 🌍  I'm based in Lviv, Ukraine
 * 🖥️  See my portfolio at [Github](http:///github.com/Domodiak?tab=repositories)
+* 💡   I'm currently working on [Virtual World](https://github.com/Domodiak/domodiak.github.io/tree/master/virtual-world)
 * 🧠  I'm learning React.js, Express.js
-* 🤝  I'm open to collaborating on fullstack projects
+* 🤝  I'm open to collaborating on
+  1. backend, frontend or both
+  2. React.js, Django, no framework projects
+  3. Any size, any day
 * ⚡  I think its interesting that I use english more than any other language online
 
 ### Skills
